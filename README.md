@@ -25,9 +25,7 @@
 - **Документирование**: Markdown, Jupyter Notebook
 
 ## Ссылки на дашборды
-https://datalens.yandex/n8zc9lc7g8467
 https://datalens.yandex/6risbwj2cklkq
-https://datalens.yandex/8tjr064yvjaos
 
 ## 🚀 Инструкция по запуску
 
