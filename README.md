@@ -28,5 +28,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/ваш-username/sleep_health_analysis.git
+git clone https://github.com/Arani-max/sleep_health_analysis.git
 cd sleep_health_analysis
