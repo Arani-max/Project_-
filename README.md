@@ -16,13 +16,18 @@
 - **Показатели образа жизни**: Physical Activity Level, Stress Level, Daily Steps
 - **Медицинские показатели**: BMI Category, Blood Pressure, Heart Rate
 
-**Источник данных**: [Sleep Health and Lifestyle Dataset](ссылка на источник, если есть)
+**Источник данных**: Sleep Health and Lifestyle Dataset
 
 ## 🛠️ Технологический стек
 - **Анализ данных**: Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Визуализация**: Yandex DataLens
 - **Управление кодом**: Git, GitHub
 - **Документирование**: Markdown, Jupyter Notebook
+
+## Ссылки на дашборды
+https://datalens.yandex/n8zc9lc7g8467
+https://datalens.yandex/6risbwj2cklkq
+https://datalens.yandex/8tjr064yvjaos
 
 ## 🚀 Инструкция по запуску
 
